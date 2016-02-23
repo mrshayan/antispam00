@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-send_username(get_receiver(msg), "shayan31323", "shayan king", "", ok_cb, false)
+send_username(get_receiver(msg), "اینم ایدی سازنده من @shayan31323", "shayan king", "", ok_cb, false)
 end
 
 return {
