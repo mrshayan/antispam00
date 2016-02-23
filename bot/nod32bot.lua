@@ -382,8 +382,7 @@ E X T R E M E Commands list :
 قفل خروج=بن گروه
 !lock chat
 قفل چت ممنوع گروه
-!sudo
-ایدی سازنده ربات
+
 !antibot enable 
 ورود ربات ها ممنوع
 !antibot disable
