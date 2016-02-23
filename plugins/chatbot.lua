@@ -69,7 +69,7 @@ end
 if msg.text == "extreme" then
 	return "bale"
 end
-if msg.text == "عباس" then
+if msg.text == "شایان" then
 	return "با صاحبم چی کار داری؟؟"
 end
 if msg.text == "i love you" then
