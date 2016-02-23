@@ -325,7 +325,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-E X T R E M E Commands list :
+T I G E R Commands list :
 !kk [username|id]
 (کیک کردن شخص (حتی با ریپلی)
 !bk [ username|id]
