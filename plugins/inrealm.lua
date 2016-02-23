@@ -658,8 +658,8 @@ end
 
 return {
   patterns = {
-    "^[!/](mkgp) (.*)$",
-    "^[!/](mkre) (.*)$",
+    "^[!/](creategroup) (.*)$",
+    "^[!/](createrealm) (.*)$",
     "^[!/](setabout) (%d+) (.*)$",
     "^[!/](setrules) (%d+) (.*)$",
     "^[!/](setname) (.*)$",
