@@ -48,17 +48,17 @@ end
 if msg.text == "bye" then
 	return "Bye Bye"
 end
-if msg.text == "abbas" then
+if msg.text == "shayan" then
 	return "با صاحبم چی کارداری؟؟"
 end
-if msg.text == "abas" then
+if msg.text == "shayan" then
 	return "با صاحبم چی کارداری؟؟"
 end
 if msg.text == "slm" then
 	return "سلام"
 end
 if msg.text == "sudo" then
-	return "@unkownhacker"
+	return "@shayan31323"
 end
 if msg.text == "سلام" then
 	return "سلام"
